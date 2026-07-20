@@ -1,0 +1,48 @@
+/*Tablet*/
+@media (max-width:992px){
+   /* Tablet */
+@media (max-width:992px){
+
+    .container{
+        width:95%;
+        
+    }
+
+
+
+}
+
+/* Mobile */
+@media (max-width:768px){
+
+    .container{
+        width:95%;
+        padding:20px;
+    }
+
+    h1{
+        font-size:28px;
+    }
+
+    input,
+    select,
+    textarea{
+        font-size:15px;
+    }
+
+}
+
+/* Small Mobile */
+@media (max-width:480px){
+
+    .container{
+        width:98%;
+        padding:15px;
+    }
+
+    h1{
+        font-size:24px;
+    }
+
+}
+}
